@@ -15,7 +15,7 @@ So, you'd like to install the small thing we did? That's cute.
 * Die a little bit inside
 * Download the tar-file of the repositories. Note that this file
   is quite large. The file can be found
-  [http://narwhal.rave.org/~resteven/101repo.tar](here).
+  (here)[http://narwhal.rave.org/~resteven/101repo.tar].
   Extract the tar-file under your Eclipse workspace (or a custom
   workspace not to pollute your own).
 
@@ -133,10 +133,10 @@ Unfortunately this is not the case with the 101repo project.
 
 # Links
 
-* (https://github.com/cderoove/damp.ekeko)[ekeko]
-* (https://github.com/ReinoutStevens/damp.qwal)[qwal]
-* (https://github.com/ReinoutStevens/damp.scrapperplugin)[scrapper]
-* (https://github.com/101companies/101repo)[101repo]
+* (ekeko)[https://github.com/cderoove/damp.ekeko]
+* (qwal)[https://github.com/ReinoutStevens/damp.qwal]
+* (scrapper)[https://github.com/ReinoutStevens/damp.scrapperplugin]
+* (101repo)[https://github.com/101companies/101repo]
 
 
 # TODO
