@@ -56,7 +56,7 @@ that are present in the whole repository (so each version).
 ```clj
 
 (run* [ext] ;;run a logic query
-  (file-extensiono ext))) ;;ext is a file-extension
+  (file-extensiono ext)) ;;ext is a file-extension
 
 ```
 
