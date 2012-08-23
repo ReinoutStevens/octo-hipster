@@ -1,7 +1,7 @@
 octo-hipster
 ============
 
-Hackathon code for Sattose2012 to make Vadim happy. Septa-hipster was not cool
+Hackathon code for Sattose2012 to make Vadim happy. Septem-hipster was not cool
 enough to our liking.
 
 # Installation
