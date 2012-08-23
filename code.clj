@@ -3,7 +3,7 @@
 (def root (first (all-roots))
 
 (run* [ext] ;;run a logic query
-  (file-extensiono ext))) ;;ext is a file-extension
+  (file-extensiono ext)) ;;ext is a file-extension
 
 (run* [ext]
  (fresh [end] ;;a new logical var
